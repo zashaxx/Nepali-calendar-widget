@@ -1,0 +1,7 @@
+{
+  "name": "Nepali Glass Widget Pro",
+  "description": "A sophisticated Nepali calendar widget builder with liquid glass aesthetics. Customize your Bikram Sambat date display with beautiful Nepali fonts and real-time AI-powered daily insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
