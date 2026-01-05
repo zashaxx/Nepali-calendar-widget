@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nepali Calendar Widget</string>
+    <string name="title_activity_main">Nepali Calendar Widget</string>
+    <string name="package_name">com.hamro.widget</string>
+    <string name="custom_url_scheme">com.hamro.widget</string>
+</resources>
